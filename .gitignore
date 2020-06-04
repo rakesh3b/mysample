@@ -4,3 +4,9 @@ bin/myCode/Key.class
 bin/myCode/Rearrange.class
 bin/myCode/KeyComparator.class
 bin/myCode/sigleton.class
+bin/myCode/Dog.class
+bin/myCode/DogFactory.class
+bin/myCode/FactoryPatternExample.class
+bin/myCode/Poodle.class
+bin/myCode/Rottweiler.class
+bin/myCode/SiberianHusky.class
