@@ -16,7 +16,7 @@ import java.io.*;
 			while (counter < n) 
 				arr[counter++] = 0; 
 		} 
-
+//test
 		
 		public static void main (String[] args) 
 		{ 
